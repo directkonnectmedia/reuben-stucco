@@ -58,7 +58,7 @@ const Home = (props) => {
               </span>
             </h1>
             <p className="hero-subtitle">
-              Family-owned craftsmanship by Carlos — serving Phoenix and the
+              Family-owned craftsmanship by Ruben — serving Phoenix and the
               Valley of the Sun.
             </p>
             <a href="#contact">
@@ -74,7 +74,7 @@ const Home = (props) => {
             <h2 className="section-title">Why Choose Us</h2>
             <div className="why-us__divider"></div>
             <p className="why-us__intro section-content">
-              For over two decades, Carlos has built his reputation one home at
+              For over two decades, Ruben has built his reputation one home at
               a time. Every project that bears the Reuben Stucco name carries his
               personal attention — from the first handshake to the final
               touch-up. We don&apos;t subcontract our craft, and we don&apos;t
@@ -108,7 +108,7 @@ const Home = (props) => {
                 </div>
                 <h3 className="why-us__card-title">Master Craftsmanship</h3>
                 <p className="why-us__card-text">
-                  Decades of hands-on experience. Carlos runs every job
+                  Decades of hands-on experience. Ruben runs every job
                   himself — no subcontractors, no shortcuts.
                 </p>
               </div>
@@ -292,7 +292,7 @@ const Home = (props) => {
             <h2 className="section-title">Let&apos;s Talk About Your Home</h2>
             <p className="contact__intro">
               No pressure, no hard sell — just a friendly conversation. Share as
-              much or as little as you&apos;d like, and Carlos will reach out
+              much or as little as you&apos;d like, and Ruben will reach out
               personally when it works for you. Every question is optional, and
               you can skip any step along the way.
             </p>
@@ -345,7 +345,7 @@ const Home = (props) => {
                   </h3>
                   <p className="wizard-step__helper">
                     Don&apos;t worry about being exact — a rough idea is plenty.
-                    Carlos will confirm everything when he visits.
+                    Ruben will confirm everything when he visits.
                   </p>
                   <div className="wizard-step__inputs">
                     <div className="form-group">
@@ -371,7 +371,7 @@ const Home = (props) => {
                     <div className="form-checkbox">
                       <input type="checkbox" id="notSure" />
                       <label htmlFor="notSure">
-                        I&apos;d rather have Carlos take a look and figure it out
+                        I&apos;d rather have Ruben take a look and figure it out
                       </label>
                     </div>
                   </div>
@@ -392,7 +392,7 @@ const Home = (props) => {
                 <div data-step="3" className="wizard-step">
                   <span className="wizard-step__label">Anything on your mind?</span>
                   <h3 className="wizard-step__question">
-                    Is there anything you&apos;d like Carlos to know?
+                    Is there anything you&apos;d like Ruben to know?
                   </h3>
                   <p className="wizard-step__helper">
                     Totally optional — feel free to skip this and save it for
@@ -421,7 +421,7 @@ const Home = (props) => {
                 <div data-step="4" className="wizard-step">
                   <span className="wizard-step__label">Almost done</span>
                   <h3 className="wizard-step__question">
-                    How should Carlos reach out?
+                    How should Ruben reach out?
                   </h3>
                   <p className="wizard-step__helper">
                     Just your first name and one way to reach you — that&apos;s
@@ -470,7 +470,7 @@ const Home = (props) => {
                       id="submitWizard"
                       className="btn btn-primary btn-lg"
                     >
-                      Say hi to Carlos
+                      Say hi to Ruben
                     </button>
                   </div>
                 </div>
@@ -486,7 +486,7 @@ const Home = (props) => {
             <div className="testimonials__rail">
               <div className="testimonials__card">
                 <p className="testimonials__quote">
-                  &quot;Carlos was on site every single day. The texture match
+                  &quot;Ruben was on site every single day. The texture match
                   on our repair was absolutely flawless. You can&apos;t even
                   tell where the old stucco ends and the new begins.&quot;
                 </p>
@@ -507,7 +507,7 @@ const Home = (props) => {
               <div className="testimonials__card">
                 <p className="testimonials__quote">
                   &quot;We&apos;ve had three different stucco companies out over
-                  the years, and nobody compares to Carlos. He treats your home
+                  the years, and nobody compares to Ruben. He treats your home
                   like it&apos;s his own. Highly recommend.&quot;
                 </p>
                 <span className="testimonials__author">
@@ -529,7 +529,7 @@ const Home = (props) => {
                 </div>
                 <h3 className="process__title">Personal Estimate</h3>
                 <p className="process__text">
-                  Carlos visits your home personally to assess the project and
+                  Ruben visits your home personally to assess the project and
                   provide a transparent, no-pressure quote tailored to your
                   specific needs.
                 </p>
@@ -540,7 +540,7 @@ const Home = (props) => {
                 </div>
                 <h3 className="process__title">Hands-On Craft</h3>
                 <p className="process__text">
-                  No subcontractors. Carlos leads the work himself, ensuring
+                  No subcontractors. Ruben leads the work himself, ensuring
                   every layer and texture meets his personal standards for
                   quality and durability.
                 </p>
@@ -551,7 +551,7 @@ const Home = (props) => {
                 </div>
                 <h3 className="process__title">Final Walkthrough</h3>
                 <p className="process__text">
-                  We don&apos;t leave until you&apos;re 100% satisfied. Carlos
+                  We don&apos;t leave until you&apos;re 100% satisfied. Ruben
                   walks the project with you to ensure every detail is perfect
                   before we sign off.
                 </p>
@@ -571,7 +571,7 @@ const Home = (props) => {
               </p>
               <a href="#contact">
                 <div className="btn btn-primary btn-lg">
-                  <span>Get Started with Carlos</span>
+                  <span>Get Started with Ruben</span>
                 </div>
               </a>
             </div>
@@ -598,7 +598,7 @@ const Home = (props) => {
               Thanks for reaching out!
             </h2>
             <p className="success-modal__text">
-              Carlos got your message and will be in touch personally — no
+              Ruben got your message and will be in touch personally — no
               call centers, no pushy follow-ups. In the meantime, feel free
               to browse more of our recent work.
             </p>

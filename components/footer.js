@@ -13,7 +13,7 @@ const Footer = (props) => {
               <div className="footer-column footer-company">
                 <h2 className="footer-wordmark section-title">Reuben Stucco</h2>
                 <p className="footer-owner section-content">
-                  Owned &amp; operated by Carlos Mendoza
+                  Owned &amp; operated by Ruben Mendoza
                 </p>
                 <p className="footer-tagline section-content">
                   Family-owned stucco craftsmanship in the Valley of the Sun.
