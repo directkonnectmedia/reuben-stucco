@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://second-flamboyant-gazelle-xjotvd.teleporthq.site/sitemap.xml
