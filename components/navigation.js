@@ -12,13 +12,13 @@ const Navigation = (props) => {
           <div className="navigation-container">
             <Link href="/">
               <a>
-                <div aria-label="CarloStucco Home" className="navigation-brand">
-                  <span className="navigation-wordmark">CarloStucco</span>
+                <div aria-label="Reuben Stucco Home" className="navigation-brand">
+                  <span className="navigation-wordmark">Reuben Stucco</span>
                 </div>
               </a>
             </Link>
             <div className="navigation-actions">
-              <a href="tel:+16026281573">
+              <a href="tel:+14805761075">
                 <div className="navigation-phone">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -33,7 +33,7 @@ const Navigation = (props) => {
                   >
                     <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233a14 14 0 0 0 6.392 6.384"></path>
                   </svg>
-                  <span className="navigation-phone-text">(602) 628-1573</span>
+                  <span className="navigation-phone-text">(480) 576-1075</span>
                 </div>
               </a>
               <button
@@ -111,8 +111,8 @@ const Navigation = (props) => {
           <div className="navigation-mobile-header">
             <Link href="/">
               <a>
-                <div aria-label="CarloStucco Home" className="navigation-brand">
-                  <span className="navigation-wordmark">CarloStucco</span>
+                <div aria-label="Reuben Stucco Home" className="navigation-brand">
+                  <span className="navigation-wordmark">Reuben Stucco</span>
                 </div>
               </a>
             </Link>
@@ -161,7 +161,7 @@ const Navigation = (props) => {
               </li>
             </ul>
             <div className="navigation-mobile-footer">
-              <a href="tel:+16026281573">
+              <a href="tel:+14805761075">
                 <div className="navigation-phone">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -176,7 +176,7 @@ const Navigation = (props) => {
                   >
                     <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233a14 14 0 0 0 6.392 6.384"></path>
                   </svg>
-                  <span className="navigation-phone-text">(602) 628-1573</span>
+                  <span className="navigation-phone-text">(480) 576-1075</span>
                 </div>
               </a>
             </div>

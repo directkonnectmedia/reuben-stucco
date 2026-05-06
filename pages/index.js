@@ -12,15 +12,15 @@ const Home = (props) => {
     <>
       <div className="home-container1">
         <Head>
-          <title>Second Flamboyant Gazelle</title>
-          <meta property="og:title" content="Second Flamboyant Gazelle" />
+          <title>Reuben Stucco</title>
+          <meta property="og:title" content="Reuben Stucco" />
           <link
             rel="canonical"
-            href="https://second-flamboyant-gazelle-xjotvd.teleporthq.site/"
+            href="https://reuben-stucco.vercel.app/"
           />
           <meta
             property="og:url"
-            content="https://second-flamboyant-gazelle-xjotvd.teleporthq.site/"
+            content="https://reuben-stucco.vercel.app/"
           />
         </Head>
         <Navigation></Navigation>
@@ -75,7 +75,7 @@ const Home = (props) => {
             <div className="why-us__divider"></div>
             <p className="why-us__intro section-content">
               For over two decades, Carlos has built his reputation one home at
-              a time. Every project that bears the CarloStucco name carries his
+              a time. Every project that bears the Reuben Stucco name carries his
               personal attention — from the first handshake to the final
               touch-up. We don&apos;t subcontract our craft, and we don&apos;t
               cut corners. We simply do stucco the way it should be done: with
@@ -497,7 +497,7 @@ const Home = (props) => {
               <div className="testimonials__card">
                 <p className="testimonials__quote">
                   &quot;True craftsmanship is hard to find in Phoenix these
-                  days. CarloStucco is the real deal. Fair price, beautiful
+                  days. Reuben Stucco is the real deal. Fair price, beautiful
                   work, and a handshake that actually means something.&quot;
                 </p>
                 <span className="testimonials__author">
@@ -622,7 +622,7 @@ transform: translateY(0);}}
         <div className="home-container4">
           <div className="home-container5">
             <Script
-              html={`<script defer data-name="carlostucco-logic">
+              html={`<script defer data-name="reuben-stucco-logic">
 (function(){
   // Wizard Wizard Logic
   const wizardSteps = document.querySelectorAll(".wizard-step")

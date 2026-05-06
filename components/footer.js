@@ -11,7 +11,7 @@ const Footer = (props) => {
           <div className="footer-container">
             <div className="footer-grid">
               <div className="footer-column footer-company">
-                <h2 className="footer-wordmark section-title">CarloStucco</h2>
+                <h2 className="footer-wordmark section-title">Reuben Stucco</h2>
                 <p className="footer-owner section-content">
                   Owned &amp; operated by Carlos Mendoza
                 </p>
@@ -26,7 +26,7 @@ const Footer = (props) => {
                 </h3>
                 <ul className="footer-list">
                   <li className="footer-list-item">
-                    <a href="tel:+16026281573">
+                    <a href="tel:+14805761075">
                       <div className="footer-link footer-contact-link">
                         <span className="footer-icon-wrapper">
                           <svg
@@ -45,7 +45,7 @@ const Footer = (props) => {
                         </span>
                         <span>
                           {' '}
-                          (602) 628-1573
+                          (480) 576-1075
                           <span
                             dangerouslySetInnerHTML={{
                               __html: ' ',
@@ -56,7 +56,7 @@ const Footer = (props) => {
                     </a>
                   </li>
                   <li className="footer-list-item">
-                    <a href="mailto:hello@carlostucco.com?subject=">
+                    <a href="mailto:hello@reubenstucco.com?subject=">
                       <div className="footer-link footer-contact-link">
                         <span className="footer-icon-wrapper">
                           <svg
@@ -90,7 +90,7 @@ const Footer = (props) => {
                         </span>
                         <span>
                           {' '}
-                          hello@carlostucco.com
+                          hello@reubenstucco.com
                           <span
                             dangerouslySetInnerHTML={{
                               __html: ' ',
@@ -171,7 +171,7 @@ const Footer = (props) => {
               <div className="footer-bottom-content">
                 <div className="footer-legal">
                   <span className="section-content">
-                    © 2026 CarloStucco. All rights reserved.
+                    © 2026 Reuben Stucco. All rights reserved.
                   </span>
                   <span className="footer-license section-content">
                     Licensed &amp; Insured — Arizona ROC# 342918
